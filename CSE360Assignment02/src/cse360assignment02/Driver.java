@@ -1,3 +1,8 @@
+/*Name: Austin Gilmore
+ *Email: acgilmor@asu.edu
+ *ID: 1216396051
+ *Course: CSE 360 Tu 9-10:15am
+ */
 package cse360assignment02;
 
 public class Driver {
